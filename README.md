@@ -1,0 +1,2 @@
+# ZNKF
+Bot discord
